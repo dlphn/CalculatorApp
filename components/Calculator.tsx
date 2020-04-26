@@ -111,6 +111,7 @@ export default class Calculator extends React.Component<any, any> {
 
 const styles = StyleSheet.create({
     container: {
+        backgroundColor: '#E1E7FC',
         flex: 1,
     },
     resultContainer: {
